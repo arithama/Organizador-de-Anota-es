@@ -1,6 +1,5 @@
 # Organizador-de-Anotacões-Gemini
-Um organizador automático de anotações conectado ao Google Drive. O usuário coloca as imagens das anotações que fez e o programa as organiza no Google Drive com a ajuda do Gemini AI
-Este é um projeto desenvolvido no Google Colab que oferece uma solução automatizada para organizar anotações de estudantes. O projeto foi concebido para simplificar o processo de catalogação e armazenamento de anotações em formato digital, facilitando o acesso e a gestão do conteúdo para estudos futuros.
+Um organizador automático de anotações conectado ao Google Drive. O usuário coloca as imagens das anotações que fez e o programa as organiza no Google Drive com a ajuda do Gemini AI.
 
 Esse projeto desenvolvido no Google Colab que oferece uma solução automatizada para organizar anotações de estudantes. O projeto foi concebido para simplificar o processo de catalogação e armazenamento de anotações em formato digital, facilitando o acesso e a gestão do conteúdo para estudos futuros.
 
